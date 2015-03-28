@@ -1,0 +1,13 @@
+Andrew ID: tianqiw
+
+All Files:
+Client.java
+GetMime.java
+HttpHandlerThread.java
+Simple.java
+
+Server: Simple.java	Usage: java Simple <port_number> <full_path_to_www_file>
+Client: Client.java	Usage: java Client <server_ip> <server_port>
+
+I developed on Windows so I'm not able to provide a Makefile.
+
